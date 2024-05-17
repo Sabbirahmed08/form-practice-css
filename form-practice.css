@@ -1,0 +1,45 @@
+.main-body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 720px;
+    height:
+        700px;
+    margin: 100px auto;
+    padding: 50px 0;
+    border-radius: 25px;
+
+
+}
+
+.input-style {
+    width: 350px;
+    height: 30px;
+    margin: 15px 0;
+    padding: 05px 10px;
+    border: 2px solid crimson;
+    border-radius: 12px;
+    box-shadow: 2px 2px 4px white;
+}
+
+.btn-style {
+    padding: 15px 30px;
+    color: azure;
+    background-color: brown;
+    border: 2px solid navy;
+    border-radius: 12px;
+    box-shadow: 2px 2px 4px white;
+    font-size: 16px;
+    margin: 0 50px 0 -50px;
+}
+
+.btn-style2 {
+    padding: 15px 30px;
+    color: black;
+    background-color: white;
+    border: 2px solid navy;
+    border-radius: 12px;
+    box-shadow: 2px 2px 4px white;
+    font-size: 16px;
+    margin: 0 0 0 20px;
+}
